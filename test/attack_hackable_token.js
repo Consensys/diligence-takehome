@@ -26,7 +26,7 @@ contract('HackableToken', (accounts) => {
   // INSTRUCTIONS: write the code which initiates the exploit on the HackableToken in this test
   it('should run the exploit to withdraw more than the thief\'s balance', async () => {
     // your exploit script goes here! :)
-
+    assert(false, "not attacked") // Delete me
   });
 
   // INSTRUCTIONS: do not change anything about this test

@@ -11,7 +11,7 @@
     "lint": "eslint --fix test/**/*.js migrations/**/*.js",
     "ganache": "ganache-cli",
     "posttest": "npm run lint",
-    "test": "truffle test"
+    "test": "truffle test --network develop"
   },
   "dependencies": {
     "bluebird": "3.5.1",
@@ -23,7 +23,7 @@
     "eslint-plugin-node": "5.1.0",
     "eslint-plugin-react": "7.5.1",
     "ganache-cli": "6.0.3",
-    "truffle": "4.0.1",
+    "truffle": "4.1.13",
     "truffle-hdwallet-provider": "0.0.3"
   },
   "devDependencies": {},
