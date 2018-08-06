@@ -16,9 +16,7 @@ Once complete, send us a zip file containing this repository with your additions
 
 ### Tips
 
-* Use the following test scripts to ensure you're using the same version of truffle and testrpc as the revievers:
-  * `npm run ganache` to run a local blockchain. (Ganache is the new name for testrpc)
-  * `npm run test` to use the locally installed version of truffle. 
+* Use `npm run test` to ensure you're using the same version of truffle as the reviewers.
 * You may find it helpful to use [Remix](https://remix.ethereum.org/) for writing the contracts.
 
 ## Please let us know if you have any questions!
