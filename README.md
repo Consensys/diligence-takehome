@@ -8,9 +8,10 @@ In this repository you'll find a contract name `HackableToken.sol`. This is an E
 
 To complete the challenge:
 
+1. What is your username on https://capturetheether.com ?
 1. Write the `Attacker.sol` contract
-2. Complete the second test in `test/attack.js`, so that all tests pass.
-2. Complete the content in `Vulnerability.md`, according to the headings and comments in that file.
+1. Complete the second test in `test/attack.js`, so that all tests pass.
+1. Complete the content in `Vulnerability.md`, according to the headings and comments in that file.
 
 Once complete, send us a zip file containing this repository with your additions.
 
